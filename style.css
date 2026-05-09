@@ -1,3 +1,9 @@
+:root{
+     font-family: "Alice", serif;
+     line-height: 150%;
+     color: rgb(61, 26, 2);
+}
+
 body{
     background-image: url(assets/bf.jpg.png);
     background-size: cover;
@@ -7,7 +13,7 @@ body{
     box-sizing: border-box;
     width: 800px;
     padding: 24px;
-    background-color: blanchedalmond;
+    background-color: rgb(238, 227, 217);
     border-radius: 24px;
     margin: 48px auto;
 }
@@ -17,3 +23,17 @@ img{
     width: 752px;
     height: 400px;;
 }
+
+h1{
+    line-height: 140%;
+    font-size: 40px;
+}
+
+h2{
+    font-size: 32px;
+}
+
+h1, h2{
+    margin: 16px 0;
+    color: rgb(61, 26, 2);
+}   
