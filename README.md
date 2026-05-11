@@ -1,9 +1,14 @@
 🚀 Tecnologias
 Este projeto foi desenvolvido utilizando as seguintes tecnologias e conceitos:
+
 HTML5: Estruturação semântica para melhor acessibilidade e SEO.
+
 CSS3: Estilização responsiva e layouts modernos.
+
 Cibersegurança (Diferencial): Implementação de Política de Segurança de Conteúdo (CSP).
+
 Git e GitHub: Controle de versão e documentação profissional.
+
 Figma: Prototipagem e guia visual do projeto.
 
 💻 Projeto
