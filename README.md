@@ -18,4 +18,4 @@ HTML5: Estruturação semântica completa (main, section, footer).
 
 CSS3: Estilização responsiva e ajustes de layout (flexbox/grid).
 
-Segurança Web: Implementação de CSP e atributos rel="noopener noreferrer" em links externos.
+Segurança Web: Implementação de CSP
